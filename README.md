@@ -87,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Ajayh4/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ajayh4/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ajayh4/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
