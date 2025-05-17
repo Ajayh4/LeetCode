@@ -1,18 +1,21 @@
 class Solution {
     public void sortColors(int[] nums) {
-        TreeMap<Integer,Integer> tm=new TreeMap<>();
+        int a=0,b=0,c=0;
         for(int i: nums)
         {
-            if(tm.containsKey(i))
-            tm.put(i,tm.get(i)+1);
+            if(i==0)
+            a+=1;
+            else if(i==1)
+            b+=1;
             else
-            tm.put(i,1);
+            c+=1;
         }
-        int k=0;
-        for(int i: tm.keySet())
-        {
-            for(int j=0;j<tm.get(i);j++)
-            nums[k++]=i;
-        }
+        int i=0;
+        for(int j=0;j<a;j++)
+        nums[i++]=0;
+        for(int j=0;j<b;j++)
+        nums[i++]=1;
+        for(int j=0;j<c;j++)
+        nums[i++]=2;
     }
 }
