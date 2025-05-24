@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ajayh4/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
+| [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ajayh4/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
