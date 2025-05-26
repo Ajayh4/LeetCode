@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Ajayh4/LeetCode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/Ajayh4/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Ajayh4/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ajayh4/LeetCode/tree/master/0155-min-stack) |
 ## Design
 |  |
