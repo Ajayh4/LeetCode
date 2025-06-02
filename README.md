@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ajayh4/LeetCode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Ajayh4/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Ajayh4/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
