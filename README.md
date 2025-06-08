@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
