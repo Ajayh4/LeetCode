@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ajayh4/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Ajayh4/LeetCode/tree/master/3321-type-of-triangle) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ajayh4/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Ajayh4/LeetCode/tree/master/0086-partition-list) |
+| [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
