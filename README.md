@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ajayh4/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ajayh4/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Ajayh4/LeetCode/tree/master/3321-type-of-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ajayh4/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ajayh4/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ajayh4/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
