@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ajayh4/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ajayh4/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Ajayh4/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ajayh4/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ajayh4/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
