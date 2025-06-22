@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ajayh4/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Enumeration
 |  |
 | ------- |
