@@ -18,18 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ajayh4/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ajayh4/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ajayh4/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ajayh4/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
 | ------- |
