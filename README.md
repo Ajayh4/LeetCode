@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ajayh4/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ajayh4/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Ajayh4/LeetCode/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
@@ -256,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Recursion
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
