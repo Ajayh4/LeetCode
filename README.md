@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Ajayh4/LeetCode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 ## Two Pointers
 |  |
@@ -277,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
