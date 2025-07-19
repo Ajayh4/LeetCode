@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Ajayh4/LeetCode/tree/master/1184-car-pooling) |
 | [1293-three-consecutive-odds](https://github.com/Ajayh4/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ajayh4/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ajayh4/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Ajayh4/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
