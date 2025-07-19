@@ -1,55 +1,40 @@
 class Solution {
-    class Node
+    static class Node
     {
-        String p;
-        ArrayList<Node>  child=new ArrayList<>();
+        Node child[]=new Node[27];
         boolean end=false;
-        Node(){}
-        Node(String p)
+    }
+    static int getChar(char ch)
+    {
+        if(ch=='/')
+        return 26;
+        return ch-'a';
+    }
+    static boolean insert(String s,Node root)
+    {
+        Node tmp=root;
+        int n=s.length();
+        for(int i=0;i<n;i++)
         {
-            this.p=p;
+            if (tmp.end && s.charAt(i) == '/') return false;
+            int ch=getChar(s.charAt(i));
+            if(tmp.child[ch]==null)
+            tmp.child[ch]=new Node();
+            tmp=tmp.child[ch];
         }
+        tmp.end=true;
+        return true;
     }
     public List<String> removeSubfolders(String[] folder) {
         Arrays.sort(folder,(a,b) -> a.length()-b.length());
         int n=folder.length;
         Node root=new Node();
         List<String> ans=new ArrayList<>();
-        for(String i: folder)
+        for(int i=0;i<n;i++)
         {
-            Node tmp=root;
-            boolean flag=false;
-            String bd[]=i.split("/");
-            System.out.println(Arrays.toString(bd));
-            for(int j=1;j<bd.length;j++)
+            if(insert(folder[i],root))
             {
-                String ts=bd[j];
-                // System.out.println(ts);
-                int f=1;
-                for(Node k: tmp.child)
-                {
-                    if(k.p.equals(bd[j]))
-                    {
-                        f=0;
-                        if(k.end){
-                        flag=true;
-                        }
-                        tmp=k;
-                        break;
-                    }
-                }
-                // System.out.println(flag);
-                if(f==1)
-                {
-                    Node nn=new Node(ts);
-                    tmp.child.add(nn);
-                    tmp=nn;
-                }
-                if(flag)break;
-            }
-            if(flag==false){
-            ans.add(i);
-            tmp.end=true;
+                ans.add(folder[i]);
             }
         }
         return ans;
