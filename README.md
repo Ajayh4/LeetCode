@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Ajayh4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ajayh4/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ajayh4/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
