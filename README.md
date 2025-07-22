@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ajayh4/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajayh4/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
