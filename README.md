@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ajayh4/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ajayh4/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ajayh4/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ajayh4/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/Ajayh4/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ajayh4/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ajayh4/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/Ajayh4/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ajayh4/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ajayh4/LeetCode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Ajayh4/LeetCode/tree/master/0155-min-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ajayh4/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Ajayh4/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |
