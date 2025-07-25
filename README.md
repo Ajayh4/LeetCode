@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ajayh4/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Ajayh4/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajayh4/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ajayh4/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ajayh4/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ajayh4/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ajayh4/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Ajayh4/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajayh4/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ajayh4/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
