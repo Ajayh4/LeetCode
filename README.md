@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ajayh4/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Ajayh4/LeetCode/tree/master/0623-add-one-row-to-tree) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
