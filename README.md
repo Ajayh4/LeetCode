@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Ajayh4/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajayh4/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ajayh4/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ajayh4/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ajayh4/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ajayh4/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/Ajayh4/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ajayh4/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ajayh4/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ajayh4/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -332,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Ajayh4/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Ajayh4/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
