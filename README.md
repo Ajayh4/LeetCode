@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ajayh4/LeetCode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/Ajayh4/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ajayh4/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ajayh4/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1448-maximum-69-number](https://github.com/Ajayh4/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ajayh4/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ajayh4/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/Ajayh4/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
