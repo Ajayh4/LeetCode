@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Ajayh4/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ajayh4/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Ajayh4/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0792-binary-search](https://github.com/Ajayh4/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Ajayh4/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ajayh4/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ajayh4/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Ajayh4/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ajayh4/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ajayh4/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Trie
