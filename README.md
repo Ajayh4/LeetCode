@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajayh4/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ajayh4/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ajayh4/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Ajayh4/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajayh4/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajayh4/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Ajayh4/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ajayh4/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajayh4/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajayh4/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Ajayh4/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Ajayh4/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ajayh4/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
