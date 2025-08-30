@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ajayh4/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -348,16 +349,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ajayh4/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Ajayh4/LeetCode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ajayh4/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ajayh4/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Ajayh4/LeetCode/tree/master/0623-add-one-row-to-tree) |
