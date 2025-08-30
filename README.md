@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ajayh4/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ajayh4/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0792-binary-search](https://github.com/Ajayh4/LeetCode/tree/master/0792-binary-search) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Ajayh4/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ajayh4/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Ajayh4/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Ajayh4/LeetCode/tree/master/0917-boats-to-save-people) |
