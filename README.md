@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajayh4/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ajayh4/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ajayh4/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ajayh4/LeetCode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ajayh4/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ajayh4/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajayh4/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Segment Tree
 |  |
