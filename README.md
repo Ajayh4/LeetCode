@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajayh4/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Ajayh4/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ajayh4/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Ajayh4/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ajayh4/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0623-add-one-row-to-tree](https://github.com/Ajayh4/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/Ajayh4/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ajayh4/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ajayh4/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajayh4/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ajayh4/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ajayh4/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ajayh4/LeetCode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ajayh4/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ajayh4/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -395,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ajayh4/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ajayh4/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
