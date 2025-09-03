@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ajayh4/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajayh4/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh4/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
 | [0433-minimum-genetic-mutation](https://github.com/Ajayh4/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Ajayh4/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ajayh4/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ajayh4/LeetCode/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ajayh4/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ajayh4/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Bit Manipulation
 |  |
