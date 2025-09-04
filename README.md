@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ajayh4/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Ajayh4/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ajayh4/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ajayh4/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/Ajayh4/LeetCode/tree/master/0326-power-of-three) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
