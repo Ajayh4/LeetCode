@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ajayh4/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ajayh4/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ajayh4/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ajayh4/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ajayh4/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ajayh4/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ajayh4/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Ajayh4/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ajayh4/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ajayh4/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Ajayh4/LeetCode/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ajayh4/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Ajayh4/LeetCode/tree/master/0676-implement-magic-dictionary) |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 | [2429-design-a-food-rating-system](https://github.com/Ajayh4/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Ajayh4/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Ajayh4/LeetCode/tree/master/3827-implement-router) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Ajayh4/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ajayh4/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -512,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ajayh4/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Ajayh4/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
