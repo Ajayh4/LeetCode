@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ajayh4/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Ajayh4/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Ajayh4/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ajayh4/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Ajayh4/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ajayh4/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajayh4/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajayh4/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/Ajayh4/LeetCode/tree/master/0326-power-of-three) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
