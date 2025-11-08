@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ajayh4/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Ajayh4/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Ajayh4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ajayh4/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ajayh4/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ajayh4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ajayh4/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ajayh4/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Ajayh4/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ajayh4/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ajayh4/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ajayh4/LeetCode/tree/master/0135-candy) |
