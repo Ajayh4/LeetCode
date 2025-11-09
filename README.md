@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ajayh4/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ajayh4/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ajayh4/LeetCode/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Ajayh4/LeetCode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/Ajayh4/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajayh4/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ajayh4/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Ajayh4/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ajayh4/LeetCode/tree/master/0326-power-of-three) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ajayh4/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
